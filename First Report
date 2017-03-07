@@ -1,0 +1,4 @@
+The program has marked every triangle valid, which is certainly not the case.
+If any of the requirements are not met, then the triangle should be considered invalid.
+There does not seem to be any handling for when sides have a length of zero or a negative length.
+Also, the it does not handle when any one side is as long or longer than the sum of the other two.
